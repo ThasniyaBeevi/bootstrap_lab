@@ -1,0 +1,33 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  
+
+}
+#text{
+  font-size: 25px;
+  font-family: 'Open Sans', sans-serif;
+ 
+}
+.form{
+    background-color:hsl(210deg 30% 91%);
+    border-radius: 10px;
+    font-size: 16px;
+    border: 1px solid #adadac;
+}
+.create-account{
+  background-color: white;
+  border: 1px solid #adadac;
+  border-radius: 10px;
+
+}
+.list{
+  list-style: none;
+  font-size: 12px;
+}
+.list,li{
+  display: inline;
+  padding: 2%;
+}
